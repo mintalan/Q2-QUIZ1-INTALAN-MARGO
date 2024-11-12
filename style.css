@@ -1,0 +1,33 @@
+body {
+     background-color: #092A53; 
+     color: #FFFFFF; 
+     text-align: center;
+    font-family: "Poppins", sans-serif;
+     }
+
+.heading {
+     color: #FFEA00; 
+     text-align: center;
+    margin-top: 20px;
+        }
+
+.content {
+        margin: 20px;
+        }
+
+.highlight {
+            color: #28a745; 
+            font-weight: bold;
+        }
+.foodgallery{
+    color:#FF0000;
+}
+.gallery-img {
+    width: 100%; 
+    height: 250px;
+    object-fit: cover; 
+}
+
+.footer{
+    background-color: #1233B8;
+}
